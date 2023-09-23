@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ccOYSAUJuWY3vkNSQSR6m47M0H24RmlIn3+ytOTRtLxGKbVZymzJ3oaHgdMkEg3DT1gSlMe0Kc8LW5jZzqmmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GALIANO\\source\\repos\\ConsoleFluentValidtion\\ConsoleFluentValidtion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GALIANO\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

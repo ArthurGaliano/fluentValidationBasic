@@ -1,0 +1,17 @@
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.csproj.AssemblyReference.cache
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.AssemblyInfoInputs.cache
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.AssemblyInfo.cs
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.csproj.CoreCompileInputs.cache
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\bin\Debug\net6.0\ConsoleFluentValidtion.exe
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\bin\Debug\net6.0\ConsoleFluentValidtion.deps.json
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\bin\Debug\net6.0\ConsoleFluentValidtion.runtimeconfig.json
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\bin\Debug\net6.0\ConsoleFluentValidtion.dll
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\bin\Debug\net6.0\ConsoleFluentValidtion.pdb
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.csproj.CopyComplete
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.dll
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\refint\ConsoleFluentValidtion.dll
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.pdb
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ConsoleFluentValidtion.genruntimeconfig.cache
+C:\Users\GALIANO\source\repos\ConsoleFluentValidtion\obj\Debug\net6.0\ref\ConsoleFluentValidtion.dll
